@@ -12,7 +12,7 @@ class App extends Component {
     return (
       <div className="wrapper">
       <SaveFullName name='Radik' surname='Shaymardanov' link="vk.com" />
-      <SaveFullName name='Juilua' surname='Shaymardanova' link="facebook.com" />
+      <SaveFullName name='Juilya' surname='Shaymardanova' link="facebook.com" />
       <SaveFullName name='Rad' surname='Shaymardanov' link="#" />
     </div>
     );
